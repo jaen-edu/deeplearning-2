@@ -1,0 +1,16 @@
+자바
+스프링
+리눅스 기본
+도커
+Oracle (https://hub.docker.com/r/jinkyoungheo/oracle-xe)
+JavaScript
+React
+파이썬
+데이터 전처리 및 EDA(Numpy, Pandas, Matplotlib, Seaborn, 데이터 크롤링
+머신러닝(회귀, 분류, 군집, 최적화)
+인공신경망 DNN -> CNN
+객체탐지
+자바 - 파이썬 연결
+파이썬 -> 자바
+스프링 AI
+AWS, CI/CD, git
